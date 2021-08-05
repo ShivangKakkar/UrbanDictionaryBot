@@ -1,6 +1,7 @@
 import logging
 from pyrogram import Client, idle
 import Config
+from pyrogram.errors import ApiIdInvalid, ApiIdPublishedFlood, AccessTokenInvalid
 
 
 logging.basicConfig(
@@ -20,7 +21,12 @@ app = Client(
 
 # Run Bot
 if __name__ == "__main__":
-    app.start()  # Not using run as wanna print
+    try:
+        app.start()  # Not using run as wanna print
+    except (ApiIdInvalid, ApiIdPublishedFlood):
+        raise Exception("Your API_ID/API_HASH is not valid.")
+    except AccessTokenInvalid:
+        raise Exception("Your BOT_TOKEN is not valid.")
     uname = app.get_me().username
     print(f"@{uname} Started Successfully!")
     idle()
