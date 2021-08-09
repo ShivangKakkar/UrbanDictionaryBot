@@ -57,7 +57,7 @@ class Data:
 
 Bot created by @StarkBots
 
-Source Code : [Click Here](https://github.com/StarkBots/UrbanDictionaryBot)
+Source Code : [Click Here](https://github.com/StarkBotsIndustries/UrbanDictionaryBot)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
