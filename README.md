@@ -59,7 +59,7 @@ Telegram bot for Urban Dictionary.
 
 ## Stats
 
-[![GitHub forks](https://img.shields.io/github/forks/StarkBotsIndustries/UrbanDictionaryBot.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/StarkBotsIndustries/UrbanDictionaryBot/network/) [![GitHub stars](https://img.shields.io/github/stars/StarkBotsIndustries/UrbanDictionaryBot.svg?style=social&label=Star&maxAge=2592000)](https://github.com/StarkBotsIndustries/UrbanDictionaryBot/stargazers/) [![GitHub watchers](https://img.shields.io/github/watchers/StarkBotsIndustries/UrbanDictionaryBot.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/StarkBotsIndustries/UrbanDictionaryBot/Watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/StarkBotsIndustries/UrbanDictionaryBot.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/StarkBotsIndustries/UrbanDictionaryBot/network/) [![GitHub stars](https://img.shields.io/github/stars/StarkBotsIndustries/UrbanDictionaryBot.svg?style=social&label=Star&maxAge=2592000)](https://github.com/StarkBotsIndustries/UrbanDictionaryBot/stargazers/) [![GitHub watchers](https://img.shields.io/github/watchers/StarkBotsIndustries/UrbanDictionaryBot.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/StarkBotsIndustries/UrbanDictionaryBot/watchers/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/StarkBotsIndustries/UrbanDictionaryBot/graphs/commit-activity)
 
 ## License
